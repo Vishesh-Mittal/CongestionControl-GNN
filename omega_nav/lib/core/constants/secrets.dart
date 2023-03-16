@@ -1,0 +1,1 @@
+const String GOOGLE_CLOUD_API_KEY = "AIzaSyC-PkkIFx5roCzSIcklTo1KzLjo1y_n0ws"; // ignore: constant_identifier_names
