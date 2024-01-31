@@ -1,0 +1,3 @@
+const String GET_NODE_LOCATIONS_URL = "http://ec2-3-112-232-57.ap-northeast-1.compute.amazonaws.com:8081/data_points"; // ignore: constant_identifier_names
+const String OPTIMAL_PATH_URL = "http://ec2-3-112-232-57.ap-northeast-1.compute.amazonaws.com:8081/optimal_path"; // ignore: constant_identifier_names
+const String GET_DATA_POINTS_FOR_VISUALIZATION_URL = "GET_DATA_POINTS_FOR_VISUALIZATION_URL"; // ignore: constant_identifier_names
